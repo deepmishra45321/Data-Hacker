@@ -1,4 +1,8 @@
+![Data Hunting Banner](assets/project_banner.png)
+
 # Data Hunting - Project Structure
+
+Hello everyone i am deepak mishra and i am a student of btech AIML and i am a data hunter.Now i am here to share my knowledge with you all. below is the in depth project structure.
 
 ## Overview
 Data Hunting is an end-to-end machine learning and deep learning pipeline built with Streamlit. The project has been reorganized into a modular structure for better maintainability and clarity.
